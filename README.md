@@ -13,4 +13,4 @@ This program compares and identifies the closest distances between each GPS loca
 This project is written in C17.
 	
 ## Sources
-Distance calculations were cross-checked using with website: https://gps-coordinates.org/distance-between-coordinates.php
+Distance calculations were cross-checked using the following calculator: https://gps-coordinates.org/distance-between-coordinates.php
