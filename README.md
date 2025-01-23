@@ -4,6 +4,7 @@ This program is used to match each GPS location in one array to its closest GPS 
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Sources](#sources)
 
 ## General info
 This program compares and identifies the closest distances between each GPS location in one array and GPS locations listed in a second array. Each array of geographic locations are inputted by the user in decimal degree (DD) format, and distances between two geographic locations are calculated using the haversine formula.
