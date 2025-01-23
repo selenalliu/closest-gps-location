@@ -13,4 +13,5 @@ This program compares and identifies the closest distances between each GPS loca
 This project is written in C17.
 	
 ## Sources
-Distance calculations were cross-checked using the following calculator: https://gps-coordinates.org/distance-between-coordinates.php
+* Haversine formula used to calculate distances between GPS points was referenced from https://en.wikipedia.org/wiki/Haversine_formula
+* Distance calculations were cross-checked using the following calculator: https://gps-coordinates.org/distance-between-coordinates.php
